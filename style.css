@@ -20,8 +20,13 @@ a{
 }
 .corpo{
     background-color: rgba(255, 255, 255, 0.781);
-    border-radius: 10px;
+    border-radius: 10px solid;
     padding-bottom: 10px;
+    width: 100%;
+}
+img{
+    width: 500px;
+    border: 0;
 }
 footer{
     text-align: center;
@@ -30,4 +35,5 @@ footer{
 .gm, .zp{
     padding: 5px;
     width: 30px;
+    
 }
