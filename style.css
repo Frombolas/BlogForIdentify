@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color:rgb(189, 141, 53) ;
+    font-size: 40px;
+}
+h2, b, li{
+    padding-left: 5px;
+}
+.container{
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #784894, #7c0b80);
+}
+nav{
+    font-size: 20px;
+    padding: 10px;
+}
+a{
+    margin: 10px;
+    color: rgb(189, 141, 53);
+}
+.corpo{
+    background-color: rgba(255, 255, 255, 0.781);
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+footer{
+    text-align: center;
+
+}
+.gm, .zp{
+    padding: 5px;
+    width: 30px;
+}
